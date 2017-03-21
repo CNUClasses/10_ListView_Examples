@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LV1_ListView" />
+            <option value="$PROJECT_DIR$/LV2_ListActivity_with_Listeners" />
+            <option value="$PROJECT_DIR$/LV3_CustomAdapter_With_Sorting" />
+            <option value="$PROJECT_DIR$/LV4_Filtering" />
+            <option value="$PROJECT_DIR$/LV5_Custom" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="listDisplayWord">
+ <item>Is Planet</item>
+ <item>Alpha Up</item>
+ <item>Alpha down</item>
+</string-array>
+<string-array name="listReturnValue">
+ <item>0</item>
+ <item>1</item>
+ <item>2</item>
+</string-array>
+</resources>

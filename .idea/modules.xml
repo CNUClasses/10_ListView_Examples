@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_ListView_Examples.iml" filepath="$PROJECT_DIR$/10_ListView_Examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LV1_ListView/LV1_ListView.iml" filepath="$PROJECT_DIR$/LV1_ListView/LV1_ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LV2_ListActivity_with_Listeners/LV2_ListActivity_with_Listeners.iml" filepath="$PROJECT_DIR$/LV2_ListActivity_with_Listeners/LV2_ListActivity_with_Listeners.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LV3_CustomAdapter_With_Sorting/LV3_CustomAdapter_With_Sorting.iml" filepath="$PROJECT_DIR$/LV3_CustomAdapter_With_Sorting/LV3_CustomAdapter_With_Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LV4_Filtering/LV4_Filtering.iml" filepath="$PROJECT_DIR$/LV4_Filtering/LV4_Filtering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LV5_Custom/LV5_Custom.iml" filepath="$PROJECT_DIR$/LV5_Custom/LV5_Custom.iml" />
+    </modules>
+  </component>
+</project>
